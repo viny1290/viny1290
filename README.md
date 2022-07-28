@@ -1,6 +1,6 @@
 ## Oiii! eu sou o Vinícius Vasconcelos
 
-- 🌱 ESTUDANDO: HTML5, CSS3 E PYTHON
+- 🌱 ESTUDANDO: HTML5, CSS3 E JS
 - 😄 PRONOMES: ELE/DELE
 
 
